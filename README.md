@@ -1,10 +1,10 @@
 # STA 380, Part 2: Exercise Solutions
 
 Below are the group members:
-- Anvesh Karangula
-- Pritesh Singh
-- Sanyam Jain
-- Gaytri Riya Vasal
+- Anvesh Karangula (ak49956)
+- Pritesh Singh (ps35762)
+- Sanyam Jain (sj33448)
+- Gaytri Riya Vasal (grv377)
 ## Exercise 1:  Probability practice
 
 Solution file: [Probability_Practice.ipynb](/Probability_Practice.ipynb)
