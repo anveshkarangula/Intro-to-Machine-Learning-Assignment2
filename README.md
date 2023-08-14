@@ -27,7 +27,7 @@ Solution file: [Market_Segmentation.ipynb](/Market_Segmentation.ipynb)
 
 ## Exercise 6:  The Reuters corpus 
 
-Solution file: [The_Reuters_Corpus.ipynb](/Probability_Practice.ipynb)
+Solution file: [The_Reuters_Corpus.ipynb](/Reuters_Corpus.ipynb)
 
 ## Exercise 7:  Association rule mining
 
