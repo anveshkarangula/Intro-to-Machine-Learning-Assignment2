@@ -11,7 +11,7 @@ Solution file: [Probability_Practice.ipynb](/Probability_Practice.ipynb)
 
 ## Exercise 2:  Wrangling the Billboard Top 100
 
-Solution file: [Wrangling_the_Billboard_Top100.ipynb](/Probability_Practice.ipynb)
+Solution file: [Wrangling_the_Billboard_Top100.ipynb](/Wrangling_Billboard.ipynb)
 
 ## Exercise 3:  Visual story telling
 
