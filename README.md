@@ -15,7 +15,7 @@ Solution file: [Wrangling_the_Billboard_Top100.ipynb](/Wrangling_Billboard.ipynb
 
 ## Exercise 3:  Visual story telling
 
-Solution file: [Visual_Story_Telling.ipynb](/Probability_Practice.ipynb)
+Solution file: [Visual_Story_Telling.ipynb](/Visual_Story_Telling.ipynb)
 
 ## Exercise 4:  Clustering and dimensionality reduction
 
